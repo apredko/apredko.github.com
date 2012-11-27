@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Alanna Makes Stuff]]></title>
+  <link href="http://apredko.github.com/atom.xml" rel="self"/>
+  <link href="http://apredko.github.com/"/>
+  <updated>2012-11-26T20:24:25-05:00</updated>
+  <id>http://apredko.github.com/</id>
+  <author>
+    <name><![CDATA[alanna]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Trouble Shooting SUCKS]]></title>
+    <link href="http://apredko.github.com/blog/2012/11/21/trouble-shooting-sucks/"/>
+    <updated>2012-11-21T20:04:00-05:00</updated>
+    <id>http://apredko.github.com/blog/2012/11/21/trouble-shooting-sucks</id>
+    <content type="html"><![CDATA[<h2>Actually Not That Hard</h2>
+
+<p>I thought I had lost all of my blog posts, but actually, git has saved my ass. I made the last two posts last week and tried to upload them, but for some reason my Virtualbox decided it didn&#8217;t want to connect to the internet anymore. After trying a restart I kept getting a kernel issue that I didn&#8217;t understand. Seems it&#8217;s actually just as easy to reinstall VB to solve the problem. So now I have all my files, despite the fact that I had to do all this. I am actually so relieved. I am being converted, ever so slowly.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Music is Beautiful]]></title>
+    <link href="http://apredko.github.com/blog/2012/11/16/music-is-beautiful/"/>
+    <updated>2012-11-16T18:10:00-05:00</updated>
+    <id>http://apredko.github.com/blog/2012/11/16/music-is-beautiful</id>
+    <content type="html"><![CDATA[<h2>I am the WORST at going to concerts</h2>
+
+<p>So I do love music. I really really do, it&#8217;s just that I&#8217;m not that great at leaving my house to go outside and actually going to the concerts. I don&#8217;t know what it is, the standing in a crowd, smelling all these random bodies and feeling their breath all around you. I just can&#8217;t motivate myself to go out and actually do it. Oh well. Well now I&#8217;ll just buy the EP of the bands I was going to check out and enjoy their music while supported them from the comfort of my own basement.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DnD night]]></title>
+    <link href="http://apredko.github.com/blog/2012/11/16/dnd-night/"/>
+    <updated>2012-11-16T17:04:00-05:00</updated>
+    <id>http://apredko.github.com/blog/2012/11/16/dnd-night</id>
+    <content type="html"><![CDATA[<h2>I was coding and forgot I had DnD night&#8230;.</h2>
+
+<p>and now I&#8217;m making my GM come over and watch me make blog posts. I don&#8217;t know what this says about my social life, but it makes me happy.</p>
+
+<h1>Remember kids, use a calender for all of your important dates!</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[I've never coded before]]></title>
+    <link href="http://apredko.github.com/blog/2012/11/16/ive-never-coded-before/"/>
+    <updated>2012-11-16T00:02:00-05:00</updated>
+    <id>http://apredko.github.com/blog/2012/11/16/ive-never-coded-before</id>
+    <content type="html"><![CDATA[<h2>So guess what guys, this is my first time doing this!</h2>
+
+<p>Who knew, I&#8217;m using coding to make something awesome. Here here to THAT. Hopefully there&#8217;ll be some sort of content on here sometime soon. Or not. Yeeeah.</p>
+
+<h1>MARKDOWN YO</h1>
+]]></content>
+  </entry>
+  
+</feed>
