@@ -4,7 +4,7 @@
   <title><![CDATA[Alanna Makes Stuff]]></title>
   <link href="http://apredko.github.com/atom.xml" rel="self"/>
   <link href="http://apredko.github.com/"/>
-  <updated>2012-11-26T20:24:25-05:00</updated>
+  <updated>2012-11-26T20:36:15-05:00</updated>
   <id>http://apredko.github.com/</id>
   <author>
     <name><![CDATA[alanna]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I'm in love with blue pencils]]></title>
+    <link href="http://apredko.github.com/blog/2012/11/26/im-in-love-with-blue-pencils/"/>
+    <updated>2012-11-26T20:31:00-05:00</updated>
+    <id>http://apredko.github.com/blog/2012/11/26/im-in-love-with-blue-pencils</id>
+    <content type="html"><![CDATA[<h2>They&#8217;re amazing</h2>
+
+<p>So last friday I got something that has seriously changed my life for the better. I got a blue pencil. For months now I&#8217;ve been drawing only in pen, convinced that if I couldn&#8217;t commit myself to a single line than it didn&#8217;t deserve to be drawn. Blue pencils have changed this. I now find great enjoyment in drawing the most delicate line I can, slow sculpting a figure out of nothing instead of getting frustrated at my lack of line perfecting and giving up. I&#8217;ve found it most freeing. It gives me new motivation to work on pieces, and that makes me very excited.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Trouble Shooting SUCKS]]></title>
